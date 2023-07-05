@@ -1,0 +1,25 @@
+body {
+    background-image: url("avenue.jpg");
+    /* image is optained from pixabay.com */
+  }
+#container{
+    margin-top: 10%;
+    margin-left: 25%;
+    padding: 5px 0px 5px 0px;
+    text-align: center;
+    background-color: #000000;
+    color: #ffffff;
+    width: 700px;
+
+}
+
+h1{
+    
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+
+p{
+    text-align: left;
+    padding-left: 15%;
+}
